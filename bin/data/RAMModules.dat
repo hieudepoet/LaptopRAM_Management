@@ -1,0 +1,17 @@
+RAMA3_1, A3, 2000, Samsung, 30, 2021-05, active
+RAMA3_2, A3, 1333, Patriot Memory, 10, 2020-05, active
+RAMDDR3_1, DDR3, 1600, Kingston, 15, 2022-08, active
+RAMDDR3_2, DDR3, 1333, Patriot Memory, 6, 2021-05, active
+RAMDDR3_3, DDR3, 1600, Samsung, 20, 2024-10, active
+RAMDDR4_1, DDR4, 3200, Corsair, 10, 2023-10, active
+RAMDDR4_2, DDR4, 3600, G.Skill, 5, 2023-09, active
+RAMDDR4_3, DDR4, 2400, Crucial, 20, 2023-07, active
+RAMDDR4_4, DDR4, 2666, ADATA, 25, 2023-02, active
+RAMDDR4_5, DDR4, 3200, Transcend, 7, 2023-12, inactive
+RAMDDR5_1, DDR5, 4800, Samsung, 8, 2024-01, active
+RAMDDR5_2, DDR5, 3200, Micron, 8, 2024-02, active
+RAMDDR5_3, DDR5, 6400, Hynix, 30, 2022-07, inactive
+RAMLPDDR4_1, LPDDR4, 2133, Micron, 12, 2022-11, active
+RAMLPDDR5_1, LPDDR5, 6400, Hynix, 3, 2024-03, active
+RAMR3_1, R3, 1600, Crucial, 20, 2023-09, active
+RAMR3_2, R3, 2000, Kingston, 35, 2022-06, inactive
